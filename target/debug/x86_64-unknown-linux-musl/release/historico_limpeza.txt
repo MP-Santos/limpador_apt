@@ -1,0 +1,2 @@
+[05/08/2026 22:28:50] Programas removidos: firefox,, juk,, gedit,, strawberry
+[06/08/2026 15:18:44] Programas removidos: music,, mpv,, tauon,, deepin,, audiotube,dragon, rhythmbox,, cozy
